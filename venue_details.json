@@ -1,0 +1,7 @@
+{
+  "name": "Exploratorium",
+  "address": "601 Yeromey Street, San Francisco, CA 94118",
+  "capacity": 500,
+  "price": "$15,000",
+  "booking_status": "Available"
+}

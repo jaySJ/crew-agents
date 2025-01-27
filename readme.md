@@ -69,4 +69,5 @@ Three quick examples of creating sequential and collaborative AI agents.
     - Entity memory - short-lived - remembers the specific entitties or subjects (think, named entity recognition in NLP) – for example stores a company name as an entity in the database.
 
 ## Examples
-(Blog post writing agent)[blog-post-writer-agent.png]
+[Blog post writing agent](blog-post-writer-agent.png)
+[Custormer support agent](customer_support_agent_output.png)
